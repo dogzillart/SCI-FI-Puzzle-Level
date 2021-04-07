@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+PuzzleStarterKit/PuzzleStarterKit/Saved/Logs/PuzzleStarterKit-backup-2021.04.07-04.59.28.log
+PuzzleStarterKit/PuzzleStarterKit/Saved/Config/CrashReportClient/UE4CC-Windows-14DA855C4D7E6FCDD5818B81AB80E9D8/CrashReportClient.ini
